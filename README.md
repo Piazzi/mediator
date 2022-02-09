@@ -4,7 +4,7 @@
 
 # Code
 
-Simple project representing the mediator design pattern. 
+Simple project representing the mediator design pattern. For this one i've made a air traffic controller system
 
 # Definition
 
